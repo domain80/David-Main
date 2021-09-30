@@ -17,8 +17,9 @@ Just starting out, so nothing too fancy 🙂🙂.
 
 ## Currently...
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Main&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Main)](https://github.com/anuraghazra/github-readme-stats) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Main&show_icons=true)  
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=David-Main)  
 
