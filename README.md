@@ -1,5 +1,3 @@
-<img src='Artboard 1.jpg'>
-
 # Im David,
 
 Wannabe software engineer and Design enthusiast.  
