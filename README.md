@@ -15,11 +15,10 @@ Just starting out, so nothing too fancy 🙂🙂.
 
 ## Currently...
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Main&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Main)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Main&layout=compact&langs_count=2&theme=dracula)](https://github.com/David-Main)  
+[![David Main stats](https://github-readme-stats.vercel.app/api?username=David-Main&show_icons=true&theme=dracula)](https://github.com/David-Main)
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=David-Main)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=David-Main&theme=dracula)  
 
 ![GitHub metrics](https://metrics.lecoq.io/David-Main)  
 
