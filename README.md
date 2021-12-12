@@ -17,7 +17,7 @@ Just starting out, so nothing too fancy 🙂🙂.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Main&layout=compact&langs_count=2&theme=dracula)](https://github.com/David-Main)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Main&layout=compact&langs_count=10&theme=dracula&hide_border=true&count-private=true)](https://github.com/David-Main)   
 [![David Main stats](https://github-readme-stats.vercel.app/api?username=David-Main&show_icons=true&theme=dracula)](https://github.com/David-Main)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=David-Main&theme=dracula)  
@@ -36,4 +36,6 @@ Just starting out, so nothing too fancy 🙂🙂.
 
 ## Look me up at:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/David-Main)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-mainoo-aa4505217/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/dCenturion) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.link/q2mgb2)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40' >](https://wa.link/q2mgb2)  
+
+ 
