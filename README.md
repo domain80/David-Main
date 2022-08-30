@@ -61,13 +61,13 @@
 ###
 <div align="left">
   <a href="https://linkedin.com/in/davidmainoo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message= &logo=linkedin&label=david mainoo&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="work.davidmainoo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=david-Main&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=gMail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://web.facebook.com/mainoodavid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message= &logo=facebook&label=David Mainoo&color=1877F2&logoColor=white&labelColor=1877F2&style=for-the-badge" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=1877F2&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
 </div>
 
