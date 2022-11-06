@@ -8,7 +8,7 @@
 
 <ul align="left">
   <li> 🔭 I’m currently building out my portfolio.  </li>
-  <li> 🌱 I’m currently learning Django and Mobile Apps Development.  </li>
+  <li> 🌱 I’m currently learning Django </li>
   <li> ⚡ Fun fact: I use tabs over spaces. </li> 
   <li> 😉 Oh and I use arch by the way. </li>
 </ul>
